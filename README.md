@@ -44,6 +44,8 @@ output:<br>
 <b>Note</b> <br>
 In the first sample the optimal answer is to split sequence between 2 and 5. Price of this cut is equal to 3 bitcoins.
 
-In the second sample it is not possible to make even one cut even with unlimited number of bitcoins.
+In the second sample it is not possible to make even one cut even with unlimited number of bitcoins
 
-In the third sample the sequence should be cut between 2 and 3, and between 4 and 5. The total price of the cuts is 1+1=2 bitcoins.
+In the third sample the sequence should be cut between 2 and 3, and between 4 and 5. The total price of the cuts is 1+1=2 bitcoins.<br>
+<b>Codeforces  problem link:</b>
+https://codeforces.com/contest/998/problem/B
